@@ -1,0 +1,41 @@
+_repo: One-Hundred-Books-Famous-in-English-LiteratureWith-Facsimiles-of-the-Title-Pages_42877
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Woodberry, George Edward
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '4319'
+    url: http://www.gutenberg.org/2009/agents/4319
+    wikipedia: http://en.wikipedia.org/wiki/George_Edward_Woodberry
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grolier Club
+    aliases:
+    - Club, Grolier
+    - Grolier Club of the City of New York
+    gutenberg_agent_id: '41906'
+    url: http://www.gutenberg.org/2009/agents/41906
+description: ''
+gutenberg_issued: '2013-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42877'
+  lccn: '02026341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- First editions -- Bibliography'
+- !lcsh 'Title pages'
+- !lcsh 'Best books -- Great Britain'
+- !lcc 'Z'
+- !lcsh 'English literature -- History and criticism'
+title: 'One Hundred Books Famous in English Literature
+
+  With Facsimiles of the Title-Pages'
+url: http://www.gutenberg.org/ebooks/42877
